@@ -1,0 +1,166 @@
+/*
+	@name homepage
+*/
+/* Only edit this if you know what you are doing! */
+body {
+  background-color: #ff822255
+
+}
+
+/* Only edit this if you know what you are doing! */
+img {
+  width: auto;
+  max-width: 150%;
+  margin: 0px;
+  border: none;
+  padding: 0px;
+}
+
+/* Only edit this if you know what you are doing! */
+div {
+  position: absolute;
+}
+
+.center-div
+{
+  position: absolute;
+
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+#content-container {
+
+  display: block;
+  position: relative;
+  margin: auto;
+
+}
+
+#homepage {
+  display: block;
+  position: relative;
+  margin: auto;
+}
+
+#secondtry {
+  display: block;
+  position: relative;
+  margin: auto;
+}
+
+#siteheader {
+  top: 30px;
+  left: 56px;
+  width: 135px;
+  height: 30px;
+  font-family: Bespoke, Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  text-align: left;
+  color: #231f20;
+}
+
+#navsymblols {
+  top: 0px;
+  left: 0px;
+  line-height: 1.58em;
+  width: 112px;
+  height: 90px;
+  font-family: Wingdings, Arial, Helvetica, sans-serif, serif;
+  font-size: 15px;
+  text-align: left;
+  color: #231f20;
+}
+
+#nav {
+  top: 0px;
+  left: 20px;
+  line-height: 1.7em;
+  width: 212px;
+  height: 90px;
+  font-family: Almendra, serif;
+  font-size: 14px;
+  text-align: left;
+  color : #7F3F97;
+}
+
+#feat_content {
+  top: 80px;
+  left: 56px;
+  width: 505px;
+
+}
+
+#logo_img {
+  top: 7px;
+  left: 223px;
+  width: 253px;
+  height: 253px;
+}
+
+#biglogo {
+  top: 0px !important;
+  position: absolute !important;
+  left: 0px;
+  width: 253px;
+  height: 253px;
+  background: url(../skins/homepage/biglogo.png);
+}
+
+#feat_text {
+  top: 271px;
+  left: 206px;
+  width: 300px;
+  height: 136px;
+  text-align: center;
+}
+
+#feat_title {
+  top: -4px;
+  left: -4px;
+  width: 319px;
+  height: 36px;
+  font-family: Almendra, Arial, Helvetica, sans-serif;
+  font-size: 21px;
+  text-align: center;
+  color: #b62025;
+  -webkit-text-stroke: .25px #f9ec31;
+}
+
+#feat_text_1 {
+  top: 37px;
+  left: 78px;
+  width: 239px;
+  height: 103px;
+  font-family: Merriweather, Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  text-align: center;
+  color: #231f20;
+}
+
+#feat_text_2 {
+  top: 37px;
+  left: 78px;
+  width: 239px;
+  height: 103px;
+  font-family: Merriweather, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  text-align: left;
+  color: #231f20;
+}
+
+#footer {
+  top: 565px;
+  left: 0px;
+  width: 249px;
+  height: 28px;
+  font-family: Almendra, Arial, Helvetica, sans-serif;
+  font-size: 9px;
+  text-align: center;
+  color: #231f20;
+}
+
+/* Add your custom CSS here */
